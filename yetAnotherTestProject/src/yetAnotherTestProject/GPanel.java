@@ -9,5 +9,6 @@ public class GPanel extends JPanel
 	public void paint(Graphics g) {
 		g.drawLine(0, 0, 300, 300);
 		g.drawLine(200, 50, 100, 70);
+		g.drawLine(100, 200, 300, 400);
 	}
 }
